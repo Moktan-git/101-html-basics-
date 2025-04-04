@@ -1,0 +1,11 @@
+body {
+  background-color: pink;
+  background-image: url("../html basics/mountains.jpeg");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+p {
+  color: red;
+  background: yellow;
+}
