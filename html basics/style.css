@@ -1,3 +1,10 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
 body {
   background-color: pink;
   background-image: url("../html basics/mountains.jpeg");
@@ -5,7 +12,11 @@ body {
   background-position: center top;
 }
 
-p {
+/* p {
   color: red;
   background: yellow;
+} */
+#hellonam {
+  color:aliceblue;
+  border-bottom: 2px solid blue;
 }
